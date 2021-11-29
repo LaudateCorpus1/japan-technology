@@ -8,6 +8,24 @@ nav:
       - Smart Document Understandingの検索スキル機能を使って、ヘルプデスクを強化する: Code-Patterns/enhance-customer-helpdesk-with-smart-document-understanding-using-search-skill/index.md
       - UIでインテリジェントな検索アプリを作成する: Code-Tutorials/create-an-intelligent-search-app-using-watson-discovery-ui-components/index.md
       - まとめ: Code-Learning-Paths/get-started-watson-discovery/summary/index.md
+    - 'Watson Assistantを始めましょう':
+      - インデックス: Code-Learning-Paths/get-started-watson-assistant/index.md
+      - Watson Assistantの紹介: Code-Articles/introduction-watson-assistant/index.md
+      - chatbot アシスタント: Code-Tutorials/create-your-first-assistant-powered-chatbot/index.md
+      - chatbotを埋め込む: Code-Tutorials/embed-watson-assistant-in-website/index.md
+      - Watson Assistant ChatbotにWatson Discoveryのスキルを追加する: Code-Tutorials/add-watson-discovery-skills-to-your-watson-assistant-chatbot/index.md
+      - Webベースのchatbotを作成する: Code-Tutorials/integrate-voice-services-to-your-watson-assistant/index.md
+      - まとめ: Code-Learning-Paths/get-started-watson-assistant/summary/index.md
+    - 'Cloud Pak for Data - Learning Path':
+      - IBM Cloud Pak for Data 概要: Code-Articles/intro-to-cloud-pak-for-data/index.md
+      - Data Virtualization: Code-Tutorials/virtualizing-db2-warehouse-data-with-data-virtualization/index.md
+      - Data VirtualizationとData Refinery: Code-Tutorials/data-visualization-with-data-refinery/index.md
+      - データを検索、準備、そして理解する: Code-Tutorials/find-prepare-and-understand-data-with-watson-knowledge-catalog/index.md
+      - データの分析、モデルの生成、そしてデプロイ: Code-Patterns/data-analysis-model-building-and-deploying-with-wml/index.md
+      - AutoAIで自動的にモデルを生成する: Code-Tutorials/automate-model-building-with-autoai/index.md
+      - 予測可能な機械学習モデルの構築: Code-Tutorials/build-an-ai-model-visually-with-spss-modeler-flow/index.md
+      - Watson OpenScaleでのモデルのモニタリング: Code-Tutorials/getting-started-with-watson-openscale/index.md
+      - まとめ: Code-Learning-Paths/cloud-pak-for-data-learning-path/summary/index.md
 theme:
   name: material
   locale: ja
