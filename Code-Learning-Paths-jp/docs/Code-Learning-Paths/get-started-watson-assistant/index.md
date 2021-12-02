@@ -32,7 +32,7 @@ title: Watson Assistantを使い始める
 
 ## 概要
 
-このラーニングパスは、Watson Assistant を素早く使いこなしたいと考えている開発者を対象としています。チュートリアルを使用して、スキルを作成して仮想アシスタントで使用する方法を示します。機能と使い始め方の詳細については、<a href="https://www.ibm.com/cloud/watson-assistant/" target="_blank" rel="noopener noreferrer">Watson Assistant</a>のページを参照してください。
+このラーニングパスは、Watson Assistant を素早く使いこなしたいと考えている開発者を対象としています。チュートリアルによって、スキルを作成して仮想アシスタントで使用する方法を示します。機能と使い始め方の詳細については、<a href="https://www.ibm.com/cloud/watson-assistant/" target="_blank" rel="noopener noreferrer">Watson Assistant</a>のページを参照してください。
 
 ### スキルレベル
 
